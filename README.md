@@ -1,8 +1,8 @@
-# Hello! 👋 I'm Chugague
+![image](https://github.com/Chugague/chugague/assets/111310087/7851a37f-2d56-455e-a218-748645dfe82a)# Hello! 👋 I'm Chugague
 
 Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of software development, passionate about honing my skills and contributing to the tech community. As I navigate through the slopes of challenges, I'm dedicated to becoming a proficient and innovative software engineer who loves building amazing applications and learning new technologies. Here you'll find some of my projects and contributions.
 
-![snowboarding](https://raw.githubusercontent.com/Chugague/chugague/9eba74233aec1c604a7a5a38752f78bdbb11dc93/GH011678_1600608375890.jpg)
+![snowboarding](https://github.com/Chugague/chugague/blob/main/GH011678_1600608375890.jpg?raw=true)
 
 ## Technologies on the Slopes
 
