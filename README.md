@@ -9,7 +9,7 @@ Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of so
 - HTML5, CSS, JavaScript
 - Frontend: Carving turns with React.js
 - Backend: Riding the backend with Node.js and Express
-- Databases: Navigating data mountains with MongoDB, MySQL, Oracle
+- Databases: Navigating data mountains with MySQL, Oracle
 - Others: GitHub, slack, etc.
 
 ## Contact
