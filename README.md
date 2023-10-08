@@ -2,7 +2,7 @@
 
 Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of software development, passionate about honing my skills and contributing to the tech community. As I navigate through the slopes of challenges, I'm dedicated to becoming a proficient and innovative software engineer who loves building amazing applications and learning new technologies. Here you'll find some of my projects and contributions.
 
-
+![snowboarding](https://github.com/Chugague/chugague/blob/main/GH011678_1600608375890.jpg?raw=true)
 
 ## Technologies on the Slopes
 
