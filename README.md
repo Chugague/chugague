@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer at early stage
 - HTML5, CSS, JavaScript
 - Frontend: React.js
 - Backend: Node.js, Express
-- Databases: MongoDB, MySQL, Oracle
+- Databases: MySQL, Oracle
 - Others: GitHub, slack, etc.
 
 ## Contact
