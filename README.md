@@ -1,4 +1,4 @@
-![image](https://github.com/Chugague/chugague/assets/111310087/7851a37f-2d56-455e-a218-748645dfe82a)# Hello! 👋 I'm Chugague
+# Hello! 👋 I'm Chugague
 
 Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of software development, passionate about honing my skills and contributing to the tech community. As I navigate through the slopes of challenges, I'm dedicated to becoming a proficient and innovative software engineer who loves building amazing applications and learning new technologies. Here you'll find some of my projects and contributions.
 
@@ -21,27 +21,3 @@ Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of so
 I'd love to ride the code trails with you on interesting projects! If you have any ideas or projects in mind, feel free to reach out. I'm open to new opportunities and learning experiences.
 
 Thanks for hitting the slopes of my profile! 😊
-
-
-
-# Hello! 👋 I'm Chugague
-
-Welcome to my GitHub profile! I'm a passionate software developer at early stages of my journey, passionate about honing my skills and contributing to the tech community. As I navigate through challenges, I'm dedicated to becoming a proficient and innovative software engineer who loves building amazing applications and learning new technologies. Here you'll find some of my projects and contributions.
-
-## Technologies
-
-- HTML5, CSS, JavaScript
-- Frontend: React.js
-- Backend: Node.js, Express
-- Databases: MySQL, Oracle
-- Others: GitHub, slack, etc.
-
-## Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kevin-ugalde-godoy-29185991/
-
-## Let's Collaborate!
-
-I'd love to collaborate on interesting projects! If you have any ideas or projects in mind, feel free to reach out. I'm open to new opportunities and learning experiences.
-
-Thanks for visiting my profile! 😊
