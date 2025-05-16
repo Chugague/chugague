@@ -7,9 +7,11 @@ Welcome to my GitHub snowpark! I'm carving my way through the snowy trails of De
 ## Technologies on the Slopes
 
 - HTML5, CSS, JavaScript
-- Frontend: Carving turns with React.js
-- Backend: Riding the backend with Node.js and Express
-- Databases: Navigating data mountains with MySQL, Oracle
+- Frontend: Carving turns with React.js and Angular.
+- Backend: Riding the backend with Node.js and Java.
+- Databases: Navigating data mountains with MySQL, Oracle and PostgreSQL.
+- Devops: Flying with jumps with Azure Devops, Github, Terraform and Docker
+- Cloud: Azure and Aws
 - Others: GitHub, slack, etc.
 
 ## Contact
